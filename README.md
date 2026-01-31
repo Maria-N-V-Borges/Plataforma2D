@@ -21,15 +21,6 @@ Jogo de plataforma 2D desenvolvido na **Godot Engine 4.6**, criado em colaboraç
 - **Luis Fernando** – Programação
 - **Miqueias** – Áudio
 
-## 📂 Estrutura do Projeto
-res://
-├── scenes/
-├── scripts/
-├── assets/
-│ ├── art/
-│ ├── audio/
-│ └── ui/
-
 
 ## ▶️ Como rodar o projeto
 1. Baixe ou clone este repositório
