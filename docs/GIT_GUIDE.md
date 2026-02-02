@@ -1,4 +1,4 @@
-📘 Guia Git – Projeto Plataforma2D
+## 📘 Guia Git – Projeto Plataforma2D
 🔹 Branch principal
 
 - main: versão estável do jogo
@@ -7,7 +7,7 @@
 
 1. Crie uma branch de feature:
 
-feature/nome-da-feature
+*feature/nome-da-feature*
 
 
 2. Trabalhe normalmente
@@ -30,9 +30,11 @@ feature/nome-da-feature
 
 Exemplos:
 
-feat: add player movement
-fix: gravity bug
-docs: update README
+*feat: add player movement*
+
+*fix: gravity bug*
+
+*docs: update README*
 
 🔹 Regras importantes
 
