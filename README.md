@@ -15,7 +15,7 @@ Jogo de plataforma 2D desenvolvido na **Godot Engine 4.6**, criado em colaboraç
 - Git & GitHub
 
 ## 👥 Equipe
-- **Thiago** – Game Design
+- **Tiago** – Game Design
 - **Aleandro** – Arte 2D
 - **Maria** – Programação / Lead Developer
 - **Luis Fernando** – Programação
@@ -30,7 +30,7 @@ Jogo de plataforma 2D desenvolvido na **Godot Engine 4.6**, criado em colaboraç
 5. Execute com ▶️
 
 ## 📄 Documentação
-- GDD (Game Design Document): em breve
+- GDD (Game Design Document): <a href="https://docs.google.com/document/d/1BUBRYXgDXQGIfakgx50ouaAyppD6cQbFCfk39jGnmh0/edit?tab=t.0" alt="_blank">https://docs.google.com/document/d/1BUBRYXgDXQGIfakgx50ouaAyppD6cQbFCfk39jGnmh0/edit?tab=t.0</a>
 
 ## 📜 Licença
 Este projeto está sob a licença MIT.
