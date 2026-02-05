@@ -1,4 +1,4 @@
-# Plataforma2D 🎮
+# Space Platformer Project 🎮
 
 Jogo de plataforma 2D desenvolvido na **Godot Engine 4.6**, criado em colaboração por um pequeno time indie com foco em aprendizado, organização e entrega de um projeto completo.
 
