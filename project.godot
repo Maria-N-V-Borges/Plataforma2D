@@ -11,8 +11,13 @@ config_version=5
 [application]
 
 config/name="Plataforma 2D"
+run/main_scene="uid://bly8elaen2loo"
 config/features=PackedStringArray("4.6", "GL Compatibility")
 config/icon="res://icon.svg"
+
+[display]
+
+window/size/viewport_width=1280
 
 [physics]
 
